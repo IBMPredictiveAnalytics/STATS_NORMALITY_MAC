@@ -1,0 +1,24 @@
+Name: STATS_NORMALITY_MAC
+Display-Name: Normality Analysis
+Dialog-Specs: normalityanalysismac.cfe
+Command-Specs: STATS_NORMALITY_MAC.XML,STATS_INSERT_CHARTMAC.XML
+Code-Files: STATS_INSERT_CHARTMAC.py,STATS_NORMALITY_MAC.R
+Misc-Files: extsyntax.css,stats_normality_mac.htm,LICENSE,markdown.html
+Summary: Univariate and muiltivariate tests and plots for normality of
+  a set of variables.
+Description: This procedure is provided for the Mac until the STATS NO
+ RMALITY ANALYSIS procedure, which is newer, is available for the Mac.
+ This procedure calculates several tests for univariate normality of a
+  set of variables and multivariate normality of the joint distributio
+ n.  It also calculates univariate and multivariate plots helpful in a
+ ssessing normality and outliers from a multivariate normal distributi
+ on.
+Author: Jon K Peck
+Version: 2.0.0
+Product-Version: 28
+Date: 8/1/2024
+Categories: normality distribution 
+Plugins: Python,R
+Python-Version: 3
+R-Packages: MVN
+Translation-Catalogues: lang
