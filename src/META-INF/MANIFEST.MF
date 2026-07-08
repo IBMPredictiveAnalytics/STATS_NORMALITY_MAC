@@ -1,5 +1,5 @@
 Name: STATS_NORMALITY_MAC
-Display-Name: Normality Analysis
+Display-Name: Normality Analysis Mac
 Dialog-Specs: normalityanalysismac.cfe
 Command-Specs: STATS_NORMALITY_MAC.XML,STATS_INSERT_CHARTMAC.XML
 Code-Files: STATS_INSERT_CHARTMAC.py,STATS_NORMALITY_MAC.R
